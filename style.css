@@ -524,7 +524,7 @@
             height: 100vh;
             max-width: 400px;
             width: 100%;
-            background: #0E2431;
+            background: #000000;
             flex-direction: column;
             align-items: center;
             padding-top: 60px;
@@ -588,7 +588,9 @@
     .home .text .text-three{
         font-size: 33px;
     }
-
+    .home {
+        background: url("/Images/black.png");
+    }
 }
 
 
