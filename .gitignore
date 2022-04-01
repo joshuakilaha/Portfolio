@@ -1,0 +1,9 @@
+# ignore ALL .log files
+*.log
+
+# ignore ALL files in ANY directory named temp
+temp/
+
+## ignore .DS_Store file.
+# git rm --cached .DS_Store
+*.DS_Store
