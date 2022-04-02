@@ -552,6 +552,15 @@
             display: block;
         }
 
+        .home {
+            background: url("Images/joshua 720x1280.png");
+            height: 100vh;
+            width: 100%;
+            background-position: center;
+            background-size: cover;
+            background-attachment: fixed;
+            font-family: 'Ubuntu', sans-serif;
+        }
 
         .home .text .text-two{
             font-size: 65px;
@@ -590,6 +599,13 @@
     }
     .home {
         background: url("Images/joshua 640x1136.png");
+        height: 130vh;
+        width: 100%;
+        /*background: #F0F8FF;*/
+        background-position: center;
+        background-size: cover;
+        background-attachment: fixed;
+        font-family: 'Ubuntu', sans-serif;
     }
 }
 
